@@ -9,7 +9,7 @@
 - 🤖 Worked on high/low level software for different applications using STM32 Development Boards
 
 <br/>
-<br/>
+
 
 ## My stack 🥞
 
