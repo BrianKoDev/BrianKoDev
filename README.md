@@ -1,4 +1,4 @@
-# I'm Brian 👋
+# Hi I'm Brian 👋
 
 - 🤔 Learning MERN Full stack web development
 - ✔️ Completed "The Frontend Developer Career Path" course on Scrimba
