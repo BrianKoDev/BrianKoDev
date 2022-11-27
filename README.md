@@ -29,8 +29,9 @@
 
 ## My Stats
 
+
 <a href="https://github.com/BrianKoDev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrianKoDev&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianKoDev" />
 </a>
 <a href="https://github.com/BrianKoDev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianKoDev" />
