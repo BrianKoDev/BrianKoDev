@@ -8,7 +8,8 @@
 - 🔑 Worked on Cryptography (Simon Cipher) in VHDL using FPGAs
 - 🤖 Worked on high/low level software for different applications using STM32 Development Boards
 
-
+<br/>
+<br/>
 
 ## My stack 🥞
 
@@ -24,6 +25,7 @@
 <img alt="MongoDB" width="30px" align="left" style="margin: 5px" src="https://www.clipartmax.com/png/full/275-2754492_mongodb-nosql-document-oriented-database-portable-network-mongodb-logo.png" />
 
 <br />
+<br/>
 
 ## My Top Languages
 
