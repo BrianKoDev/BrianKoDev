@@ -31,14 +31,3 @@
 <img alt="Matlab" width="30px" align="left" style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
 <br />
 <br/>
-
-## My Stats
-<a href="https://github.com/BrianKoDev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianKoDev" />
-</a>
-
-
-<a href="https://github.com/BrianKoDev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianKoDev" />
-</a>
-
